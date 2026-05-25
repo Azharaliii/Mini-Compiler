@@ -1,4 +1,4 @@
-# 🔧 Mini Compiler — AssemblyLang
+# 🔧 Mini Compiler — In Assembly Langauge
 
 A complete mini compiler for an x86-style assembly language, built in Python with a modern Tkinter GUI. Developed as a course project for **Computer Architecture & Assembly Language** at **Sukkur IBA University**.
 
